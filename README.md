@@ -14,3 +14,8 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 ![semana14](https://user-images.githubusercontent.com/14815092/87314099-61c55300-c4e8-11ea-9099-463484206728.jpg)
 * **Hito más importante de la semana**: Adaptar la documentación al nuevo formato de biblioteca y ejecutar la primera versión con el dialogo funcional.
 * **Actividades logradas**: Adaptar la documentación al formato APA séptima edición.
+
+## Planificación semana 15: 20 al 26 de julio 2020
+![semana15](https://user-images.githubusercontent.com/14815092/87944174-ab6fe980-ca64-11ea-8438-996b414e19e1.jpg)
+* **Hito más importante de la semana**: Adaptar la documentación al nuevo formato de biblioteca y ejecutar la primera versión con el test multiopción.
+* **Actividades logradas**: obtener el test multiopción validado por los expertos.
