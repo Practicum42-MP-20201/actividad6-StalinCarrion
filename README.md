@@ -19,3 +19,8 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 ![semana15](https://user-images.githubusercontent.com/14815092/87944174-ab6fe980-ca64-11ea-8438-996b414e19e1.jpg)
 * **Hito más importante de la semana**: Adaptar la documentación al nuevo formato de biblioteca y ejecutar la primera versión con el test multiopción.
 * **Actividades logradas**: obtener el test multiopción validado por los expertos.
+
+## Planificación semana 16: 27 al 31 de julio 2020
+![semana16](https://user-images.githubusercontent.com/14815092/88546304-cc46ba80-cfe1-11ea-804e-e02ae0219acd.jpg)
+* **Hito más importante de la semana**: Establecer las pruebas de la aplicación VR, e ir finalizando la documentación.
+* **Actividades logradas**: .
